@@ -5,7 +5,6 @@ title: Passions
 
 Mother Teresa
 
-
-![Mother Teresa](img/mother-teresa.jpg)
+![MotherTeresa](img/mother-teresa.jpeg)
 
 ![mother](img/mother-teresa.jpeg)
