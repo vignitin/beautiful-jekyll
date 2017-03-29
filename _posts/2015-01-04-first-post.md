@@ -7,6 +7,7 @@ tags:
   - junos
   - l3vpn
 published: true
+date: '2017-03-30'
 ---
 
 This is an Ansible project to configure L3VPN on a JUNOS router:
