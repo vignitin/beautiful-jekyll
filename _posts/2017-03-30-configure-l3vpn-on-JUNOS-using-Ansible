@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Configure L3VPN on JUNOS using Ansible
-image: /img/ansible
+image: >-
+  https://www.ansible.com/hs-fs/hubfs/2017_Images/Assets/Ansible-Wordmark-White.svg?t=1490802349918&width=800&name=Ansible-Wordmark-White.svg
 tags:
   - ansible
   - junos
