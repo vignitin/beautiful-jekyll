@@ -26,8 +26,8 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - ConFusion website: "http://vignitin.github.io/conFusion/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+#    - Learn markdown: "http://www.markdowntutorial.com/"
+#    - GitHub Pages: "https://pages.github.com/"
 #  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -46,11 +46,11 @@ author:
   name: Nitin Vig
   email: "vignitin@gmail.com"
   facebook: nitinvig  # eg. daattali
+  linkedin: vignitin  # eg. daattali
   github: vignitin    # eg. daattali
   twitter: vignitin   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +vignitin   # eg. +DeanAttali or 109424658772469020925
-  linkedin: vignitin  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
