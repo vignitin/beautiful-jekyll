@@ -50,7 +50,7 @@ author:
   twitter: vignitin   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +vignitin   # eg. +DeanAttali or 109424658772469020925
-  linkedin: in/vignitin  # eg. daattali
+  linkedin: vignitin  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
@@ -62,7 +62,7 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
   twitter: true
   google-plus: false
