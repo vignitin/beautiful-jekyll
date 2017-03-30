@@ -3,6 +3,6 @@ layout: page
 title: Passions
 ---
 
-A sketch of Mother Teresa
+A recent sketch
 
 ![MotherTeresa](img/mother-teresa.jpeg)
