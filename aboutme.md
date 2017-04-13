@@ -4,10 +4,8 @@ title: About me
 subtitle: Eternal optimistic & a believer
 ---
 
-Hi, I am Nitin Vig. 
-
 @work, I'm a network architect with a flare for all things Unix, Automation and Web development. 
 
-off work, I have a passion for sketching, music and travel & an aspiration to give back in some meaningful way.
+!work, I have a passion for pencil sketching, music and travel & an aspiration to give back to the society in some meaningful way.
 
-Still figuring the best way to combine these passions!
+Still figuring the best way to combine my @work & !work passions!
