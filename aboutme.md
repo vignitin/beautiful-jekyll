@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Eternal optimistic & a believer
+subtitle: Eternal learner & believer
 ---
 
 @work, I'm a network architect with a flare for all things Unix, Automation and Web development. 
