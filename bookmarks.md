@@ -1,8 +1,6 @@
 ---
 layout: page
-title: Passions
+title: Interesting blogs
 ---
 
-A recent sketch
-
-![MotherTeresa](img/mother-teresa.jpeg)
+Books to read: https://medium.com/the-mission/every-lifelong-learner-should-read-these-high-impact-books-c2428424b272
